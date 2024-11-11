@@ -1,0 +1,44 @@
+Protein 0 top 3 similar molecules:
+  - Molecule Label: Alnumycin A, SMILES: CCC[C@H]1OC(C)=Cc2cc3c(c(O)c21)C(=O)C([C@H]1OC[C@@H](O)[C@H](CO)O1)=CC3=O, Similarity: 0.9216
+  - Molecule Label: Isatropolone, SMILES: CCCC(=O)C1=C2C=C(C)Oc3c4c(c(=O)cc(c32)C1=O)C1(O)C(O4)OC(C)C(OC)C1O, Similarity: 0.0049
+  - Molecule Label: Compound 2, SMILES: CC(=O)[C@H]1C[C@H]2OC(=O)[C@@]3(O)C(O)=C4C(=O)c3c(O)cccc3C(=O)[C@@]41C[C@@H]23, Similarity: 0.0049
+
+Protein 1 top 3 similar molecules:
+  - Molecule Label: Dutomycin, SMILES: CCCC(C)C=C(C)C(=O)OC1C(C)OC(OC2CCC(OC3C(=O)C(C(C)=O)=C(O)C4(O)C(=O)c3c(O)c6c(c(C)c3CC34O)C(=O)C(OC)=CC6=O)OC2C)CC1(C)O, Similarity: 0.8709
+  - Molecule Label: Polyketomycin, SMILES: COC1=CC(=O)c2c(O)c3c(c(C)c2C1=O)CC1(O)C(O[C@H]2CC[C@H](O[C@H]4C[C@@](C)(O)[C@H](OC(=O)c3c(C)ccc(C)c3O)[C@H](C)O4)[C@@H](C)O2)C(=O)/C(=C(/C)O)C(=O)C1(O)C3=O, Similarity: 0.0471
+  - Molecule Label: TLN-03220, SMILES: CCC(C)c1cc2c(=O)c3ccc4c(OC)c3c(=O)c6c(O)ccc(O)c6c(=O)c3c(O)c4c3c(=O)c2c(=O)n1CC(=O)N1CC(C(=O)O)NC(=O)C1C, Similarity: 0.0039
+
+Protein 2 top 3 similar molecules:
+  - Molecule Label: Landomycin E, SMILES: Cc1cc(O)c2c(c1)CC(O)C1=C2C(=O)c2c(O)ccc(OC3CC(O)C(OC4CC(OC3CCC(O)C(C)O3)C(O)C(C)O4)C(C)O3)c2C1=O, Similarity: 0.2221
+  - Molecule Label: Landomycin E, SMILES: Cc1cc(O)c2c(c1)CC(O)C1=C2C(=O)c2c(O)ccc(OC3CC(O)C(OC4CC(OC3CCC(O)C(C)O3)C(O)C(C)O4)C(C)O3)c2C1=O, Similarity: 0.2221
+  - Molecule Label: Gaudimycin C, SMILES: CC1=CC(=O)[C@]2(O)C3=C(C(=O)c4c(O)cccc4C3=O)[C@@H](O)C[C@]2(O)C1, Similarity: 0.2164
+
+Protein 3 top 3 similar molecules:
+  - Molecule Label: Collinone, SMILES: COc1cc(=O)c2c(=O)c3c(c(=O)c=2c1=O)=C(O)C1(O)c2c(cc4cc(C)oc(=O)c4c2O)CCC1(O)C=3O, Similarity: 0.1388
+  - Molecule Label: Paramagnetoquinone A, SMILES: CNc1cc(=O)c2c(O)c3c(=O)c4c3c(c(OC)cc4c(=O)c3cc2c1=O)C(=O)OC3, Similarity: 0.0623
+  - Molecule Label: Allocyclinone A, SMILES: COc1c(Cl)c(C(Cl)(Cl)Cl)cc2ccc3c(c12)C(=O)c1c(O)c2c(c(O)c1C3=O)C(C)(OC)OC2=O, Similarity: 0.0388
+
+Protein 4 top 3 similar molecules:
+  - Molecule Label: R1128A, SMILES: CCCc1cc(O)cc2c1C(=O)c1c(O)cc(O)cc1C2=O, Similarity: 0.0712
+  - Molecule Label: Persiamycin A, SMILES: Cc1c(O)cc2c(c1O)C(=O)c1c(cc3cc(O)cc(C)c3c1O)C2=O, Similarity: 0.0683
+  - Molecule Label: Paramagnetoquinone A, SMILES: CNc1cc(=O)c2c(O)c3c(=O)c4c3c(c(OC)cc4c(=O)c3cc2c1=O)C(=O)OC3, Similarity: 0.0376
+
+Protein 3 top 3 similar molecules:
+  - Molecule Label: Formicamycin A, SMILES: COc1cc(C)c(-c2cc(OC)c(Cl)c3c2C(=O)C2(O)C(=O)c4c(O)cc(O)cc4C(C)(C)C2C3)c(OC)c1, Similarity: 0.8411
+  - Molecule Label: Accramycin A, SMILES: COc1cc(C)c(-c2cc(OC)cc3cc4c(c(O)c23)C(=O)c2c(O)cc(O)cc2C4(C)C)c(O)c1, Similarity: 0.0630
+  - Molecule Label: Komodoquinone B, SMILES: CC1(O)Cc2c(O)c3c(c(O)c2C(O)C1)C(=O)c1c(O)cccc1C3=O, Similarity: 0.0102
+
+Protein 6 top 3 similar molecules:
+  - Molecule Label: Formicamycin A, SMILES: COc1cc(C)c(-c2cc(OC)c(Cl)c3c2C(=O)C2(O)C(=O)c4c(O)cc(O)cc4C(C)(C)C2C3)c(OC)c1, Similarity: 0.1362
+  - Molecule Label: Accramycin A, SMILES: COc1cc(C)c(-c2cc(OC)cc3cc4c(c(O)c23)C(=O)c2c(O)cc(O)cc2C4(C)C)c(O)c1, Similarity: 0.1116
+  - Molecule Label: Benastatin A, SMILES: CCCCCc1cc2ccc3c(O)c4c(cc3c2c(O)c1C(=O)O)C(C)(C)c1cc(O)cc(O)c1C4=O, Similarity: 0.0876
+
+Protein 7 top 3 similar molecules:
+  - Molecule Label: Collinone, SMILES: COc1cc(=O)c2c(=O)c3c(c(=O)c=2c1=O)=C(O)C1(O)c2c(cc4cc(C)oc(=O)c4c2O)CCC1(O)C=3O, Similarity: 0.2628
+  - Molecule Label: Curamycin, SMILES: COCC1OC(OC2OCC3OC4(OC3C2OC(C)=O)OC(C)C(O)(C(C)=O)C2OCOC24)C(OC)C(O)C1OC1OC(C)C(OC)C(OC2CC3(C)OC4(CC(O)C(OC3CC(O)C(OC(=O)c6c(C)c(Cl)c(O)c(Cl)c6OC)C(C)O3)C(C)O4)OC3C(C)O2)C1O, Similarity: 0.1747
+  - Molecule Label: Steffimycin D, SMILES: COc1cc(O)c2c(c1)C(=O)c1cc3c(c(O)c1C2=O)C(OC1OC(C)C(O)C(O)C1OC)CC(C)(O)C3, Similarity: 0.0686
+
+Protein 8 top 3 similar molecules:
+  - Molecule Label: Lysolipin I, SMILES: COc1c(Cl)ccc2c(=O)c3c(O)c4c3c(c3oc12)OCOC3C(OC)c1cc2c(c(O)c1-4)C(=O)N(C)C(OC)C2O, Similarity: 0.3136
+  - Molecule Label: Arixanthomycin A, SMILES: COC1C(C)OC(Oc2cccc3c(=O)c4c(O)c3c(c(O)c4oc23)CCc2cc3c(c(O)c2-3)C(=O)N2C(C(=O)O)COC2(C)C3)C(OC)C1OC, Similarity: 0.1096
+  - Molecule Label: Heliquinomycin, SMILES: COC(=O)c1cc2cc3c(c(O)c2c(=O)o1)OC1(Oc2c(O)c4c(c(O)c2C1OC1CC(OC)C(O)C(C)O1)C(=O)C=C(OC)C4=O)C(O)C3, Similarity: 0.0269
