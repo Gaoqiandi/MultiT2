@@ -25,8 +25,8 @@ MultiT2 requires Python 3.8+ and several dependencies. We recommend using conda 
 To set up the environment, follow these steps:
 
 Clone the repository
-`git clone https://github.com/Gaoqiandi/MultiT2.git`
-`cd MultiT2`
+```git clone https://github.com/Gaoqiandi/MultiT2.git
+cd MultiT2```
 
 Create and activate conda environment
 
