@@ -45,7 +45,7 @@ And [MoLFormer Model](https://huggingface.co/ibm/MoLFormer-XL-both-10pct/tree/ma
 
 ## Notebooks
 ### Data process
-We searched databases using compound names from dataset (data/T2_data_normalized.xlsx) to obtain corresponding SMILES notations for T2PKs. The `data_process.ipynb` notebook demonstrates how to use RDkit to convert different forms of SMILES notation into standardized SMILES format.
+We searched databases using compound names from [dataset](data/T2_data_normalized.xlsx) to obtain corresponding SMILES notations for T2PKs. The [data_process.ipynb](scripts/dataset) notebook demonstrates how to use RDkit to convert different forms of SMILES notation into standardized SMILES format.
 
 ### Training
 The `training.ipynb` notebook demonstrates the training process of MultiT2, which employs an alternating training strategy using:
