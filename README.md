@@ -29,7 +29,7 @@ cd MultiT2
 
 Create and activate conda environment
 
-`conda env create -f environment.yml
+`conda env create -f environment.yml \
 conda activate MultiT2`
 
 ### Pretrained language model
