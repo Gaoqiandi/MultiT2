@@ -23,15 +23,15 @@ The model leverages contrastive learning to optimize the embeddings of these two
 MultiT2 requires Python 3.8+ and several dependencies. We recommend using conda to manage the environment. All required packages can be installed using the provided `environment.yml` file.
 
 To set up the environment, follow these steps:
-# Clone the repository
+### Clone the repository
 git clone https://github.com/Gaoqiandi/MultiT2.git
 cd MultiT2
 
-# Create and activate conda environment
+### Create and activate conda environment
 conda env create -f environment.yml
 conda activate MultiT2
 
-## Pretrained language model
+### Pretrained language model
 Before using MultiT2, you need to download two pretrained models and place them in the `models` directory: ESM2 Model(https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt) 
 And MoLFormer Model(https://huggingface.co/ibm/MoLFormer-XL-both-10pct/tree/main)
 
