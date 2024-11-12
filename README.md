@@ -27,7 +27,6 @@ To set up the environment, follow these steps:
 Clone the repository
 ```
 git clone https://github.com/Gaoqiandi/MultiT2.git
-
 cd MultiT2
 ```
 
@@ -35,7 +34,6 @@ Create and activate conda environment
 
 ```
 conda env create -f environment.yml
-
 conda activate MultiT2
 ```
 
@@ -46,17 +44,17 @@ And [MoLFormer Model](https://huggingface.co/ibm/MoLFormer-XL-both-10pct/tree/ma
 
 
 ## Notebooks
-#Data process
+### Data process
 We searched databases using compound names from dataset (data/T2_data_normalized.xlsx) to obtain corresponding SMILES notations for T2PKs. The `data_process.ipynb` notebook demonstrates how to use RDkit to convert different forms of SMILES notation into standardized SMILES format.
 
-# Training
+### Training
 The `training.ipynb` notebook demonstrates the training process of MultiT2, which employs an alternating training strategy using:
 - Contrastive learning loss
 - Cross-entropy loss
 This dual-loss training approach helps achieve optimal model weights by alternating between classification and contrastive learning phases.
 
-#Evaluation
+### Evaluation
 The `evaluation.ipynb` notebook demonstrates how we calculate top-k accuracy metrics and presents the top-1, top-2, and top-3 accuracy rates of our best model on the test set.
 
-#Prediction
+### Prediction
 The `prediction.ipynb` notebook demonstrates how to use our model for prediction. Given a fasta file containing CLF sequences, the model can identify the most similar structures among the 146 known T2PKs that might be synthesized by these CLF sequences, and determine potential novel scaffolds.
