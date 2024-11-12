@@ -26,18 +26,20 @@ To set up the environment, follow these steps:
 
 Clone the repository
 ```
-git clone https://github.com/Gaoqiandi/MultiT2.git
+git clone https://github.com/Gaoqiandi/MultiT2.git \
 cd MultiT2
 ```
 
 Create and activate conda environment
 
-`conda env create -f environment.yml \
-conda activate MultiT2`
+```conda env create -f environment.yml \
+conda activate MultiT2
+```
 
-### Pretrained language model
-Before using MultiT2, you need to download two pretrained models and place them in the `models` directory: ESM2 Model(https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt) 
-And MoLFormer Model(https://huggingface.co/ibm/MoLFormer-XL-both-10pct/tree/main)
+Pretrained language model
+
+Before using MultiT2, you need to download two pretrained models and place them in the `models` directory: [ESM2 Model](https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt) 
+And [MoLFormer Model](https://huggingface.co/ibm/MoLFormer-XL-both-10pct/tree/main)
 
 
 ## Notebooks
