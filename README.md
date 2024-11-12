@@ -37,7 +37,7 @@ conda env create -f environment.yml
 conda activate MultiT2
 ```
 
-Pretrained language model
+## Pretrained language model
 
 Before using MultiT2, you need to download two pretrained models and place them in the `models` directory: [ESM2 Model](https://dl.fbaipublicfiles.com/fair-esm/models/esm2_t36_3B_UR50D.pt) 
 And [MoLFormer Model](https://huggingface.co/ibm/MoLFormer-XL-both-10pct/tree/main)
