@@ -26,7 +26,8 @@ To set up the environment, follow these steps:
 
 Clone the repository
 ```git clone https://github.com/Gaoqiandi/MultiT2.git
-cd MultiT2```
+cd MultiT2
+```
 
 Create and activate conda environment
 
